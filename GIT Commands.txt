@@ -1,4 +1,0 @@
-git status
-git init
-git log
-git add .,git add --a
